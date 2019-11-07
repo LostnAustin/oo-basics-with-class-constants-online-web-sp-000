@@ -21,7 +21,3 @@ class Shoe
 
   end
 end
-
-
-unless brand == BRANDS
-  BRANDS << brand
